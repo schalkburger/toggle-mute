@@ -1,2 +1,3 @@
-# toggle-mute-ahk
-Toggle Microphone Mute AutoHotkey Script
+# Toggle Microphone Mute AutoHotkey Script
+
+AutoHotkey script to mute and unmute your microphone
